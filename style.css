@@ -1,3 +1,10 @@
 header{
+    position: sticky;
+    top: 10px;
 
+    color: lightgray;
+}
+
+#nav-header{
+    flex: 2;
 }
