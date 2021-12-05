@@ -7,8 +7,10 @@ header{
 
 #nav-header{
     flex: 1;
+    margin-left: 5px;
 }
 
 h1{
     flex: 2;
+    margin-left: 5px;
 }
