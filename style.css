@@ -40,6 +40,7 @@ main{
 
 #sgarda-selfie{
     flex: 1;
+    border-style: solid;
     margin-left: 20px;
     margin-right: 20px;
 }
