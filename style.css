@@ -13,9 +13,9 @@ header{
 }
 
 a{
-    flex: 2;
-    position: absolute;
-    left: 15px;
+    flex: 1;
+    margin-left: 15px;
+    margin-top: 60px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
