@@ -58,6 +58,6 @@ main{
 
 }
 
-ul{
-    text-align: center;
+.contacts{
+    justify-content: center;
 }
