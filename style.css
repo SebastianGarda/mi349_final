@@ -61,7 +61,7 @@ main{
 #contactsMain{
     display: flex;
     justify-content: center;
-    box-shadow: rgba(0,0,0,0.1) 10px 10px 10px;
+    
 }
 
 img{
@@ -74,4 +74,5 @@ img{
     font-size: 20px;
     width: 150px;
     justify-content: center;
+    box-shadow: rgba(0,0,0,0.1) 10px 10px 10px;
 }
