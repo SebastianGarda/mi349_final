@@ -87,7 +87,18 @@ img{
     border-style: solid;
     border-color: black;
     box-shadow: rgba(0,0,0,0.1) 10px 10px 10px;
+    width: 20%;
+
 }
+/*
+.gitLogo{
+    border-style: solid;
+    border-color: black;
+    box-shadow: rgba(0,0,0,0.1) 10px 10px 10px;
+
+    width: 20%;
+} */
+
 
 
 /*
@@ -103,6 +114,7 @@ img{
     margin-left: 10px;
     margin-bottom: 50px;
 }
+
 
 .github{
     float: right;
@@ -120,6 +132,7 @@ img{
     line-height: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 
 
 
