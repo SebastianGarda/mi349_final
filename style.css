@@ -100,11 +100,15 @@ img{
 .itch{
     float: right;
     margin: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
 }
 
 .github{
     float: right;
     margin: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
 }
 
 #description{
