@@ -79,6 +79,6 @@ img{
 
 .contacts a img:hover 
 {
-   opacity: 0.5;
+   opacity: 0.35;
    transition: opacity ease-in-out 0.2s;
 }
