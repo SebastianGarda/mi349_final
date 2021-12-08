@@ -93,13 +93,16 @@ img{
     display: flex;
 }
 
+/*
 .portfolio{
     flex: 1;
     display: flex;
 }
+*/
 
 .itch{
-    flex: 2;
+    float: right;
+    margin: 10px;
 }
 
 #description{
@@ -110,4 +113,6 @@ img{
     line-height: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
 
