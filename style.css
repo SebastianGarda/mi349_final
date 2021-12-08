@@ -83,7 +83,7 @@ img{
    transition: opacity ease-in-out 0.2s;
 }
 
-div .portfolio{
+.portfolio{
     display: flex;
 }
 
