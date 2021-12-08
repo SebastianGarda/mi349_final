@@ -63,8 +63,12 @@ main{
     justify-content: center;
 }
 
+img{
+    width: 100%;
+}
 .contacts{
     border-style: solid;
+    list-style-type: none;
     font-size: 20px;
     justify-content: center;
 }
