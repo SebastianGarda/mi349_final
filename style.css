@@ -88,7 +88,12 @@ img{
     box-shadow: rgba(0,0,0,0.1) 10px 10px 10px;
 }
 
+.page{
+    display: flex;
+}
+
 .portfolio{
+    flex: 1;
     display: flex;
 }
 
@@ -104,6 +109,7 @@ img{
 }
 
 .portfolio2{
+    flex: 1;
     display: flex;
 }
 
@@ -117,3 +123,4 @@ img{
     margin-left: 30px;
     font-family: Helvetica, Arial, sans-serif;
 }
+
