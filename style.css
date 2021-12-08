@@ -83,10 +83,14 @@ img{
    transition: opacity ease-in-out 0.2s;
 }
 
-div{
+div .portfolio{
     display: flex;
 }
 
-#itch{
+.itch{
     flex: 2;
+}
+
+.description{
+    flex: 1;
 }
