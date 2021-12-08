@@ -70,5 +70,6 @@ img{
     border-style: solid;
     list-style-type: none;
     font-size: 20px;
+    width: 50px;
     justify-content: center;
 }
