@@ -105,24 +105,8 @@ img{
 .description{
     margin-left: 20px;
     margin-right: 20px;
-    font-size: 20px;
+    font-size: 50px;
     line-height: 25px;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-.portfolio2{
-    flex: 1;
-    display: flex;
-}
-
-.github{
-    flex: 1;
-    width: 50%;
-}
-
-.description2{
-    flex: 2;
-    margin-left: 30px;
-    font-family: Helvetica, Arial, sans-serif;
 }
 
