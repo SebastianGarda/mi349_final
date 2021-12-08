@@ -59,5 +59,7 @@ main{
 }
 
 .contacts{
+    border-style: solid;
+    display: flex;
     justify-content: center;
 }
