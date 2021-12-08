@@ -82,3 +82,11 @@ img{
    opacity: 0.35;
    transition: opacity ease-in-out 0.2s;
 }
+
+div{
+    display: flex;
+}
+
+#itch{
+    flex: 2;
+}
