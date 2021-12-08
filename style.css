@@ -65,7 +65,7 @@ main{
 
 img{
     width: 100%;
-    margin-right: 10px;
+    padding: 5px 5px 5px 5px;
     justify-content: center;
 }
 .contacts{
