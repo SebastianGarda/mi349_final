@@ -68,9 +68,10 @@ img{
     margin-right: 10px;
 }
 .contacts{
+    flex: 1;
     border-style: solid;
     list-style-type: none;
     font-size: 20px;
     width: 150px;
-    justify-content: left;
+    justify-content: center;
 }
