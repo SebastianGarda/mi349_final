@@ -76,3 +76,9 @@ img{
     justify-content: center;
     box-shadow: rgba(0,0,0,0.1) 10px 10px 10px;
 }
+
+img a img:hover 
+{
+   opacity: 0.5;
+   transition: opacity ease-in-out 0.2s;
+}
