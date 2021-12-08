@@ -102,6 +102,11 @@ img{
     margin: 10px;
 }
 
+.github{
+    float: right;
+    margin: 10px;
+}
+
 #description{
     flex: 1;
     margin-left: 20px;
