@@ -58,8 +58,12 @@ main{
 
 }
 
+#contactsMain{
+    display: flex;
+    justify-content: center;
+}
+
 .contacts{
     border-style: solid;
-    display: flex;
     justify-content: center;
 }
