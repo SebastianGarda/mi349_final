@@ -92,11 +92,7 @@ img{
 
 }
 
-.raft a img:hover 
-{
-   opacity: 0.35;
-   transition: opacity ease-in-out 0.2s;
-}
+
 
 .gitlogo{
     border-style: solid;
@@ -106,17 +102,20 @@ img{
     width: 20%;
 } 
 
-.gitlogo a img:hover 
-{
-   opacity: 0.35;
-   transition: opacity ease-in-out 0.2s;
-}
+
+
 
 
 
 
 .portfolio{
     justify-content: center;
+}
+
+.portfolio a img:hover 
+{
+   opacity: 0.35;
+   transition: opacity ease-in-out 0.2s;
 }
 
 
