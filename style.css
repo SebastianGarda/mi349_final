@@ -102,12 +102,11 @@ img{
 
 
 
-/*
+
 .portfolio{
-    flex: 1;
-    display: flex;
+    justify-content: center;
 }
-*/
+
 
 .itch{
     float: right;
