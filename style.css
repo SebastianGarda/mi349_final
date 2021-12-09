@@ -92,6 +92,12 @@ img{
 
 }
 
+.raft a img:hover 
+{
+   opacity: 0.35;
+   transition: opacity ease-in-out 0.2s;
+}
+
 .gitlogo{
     border-style: solid;
     border-color: black;
@@ -99,6 +105,12 @@ img{
 
     width: 20%;
 } 
+
+.gitlogo a img:hover 
+{
+   opacity: 0.35;
+   transition: opacity ease-in-out 0.2s;
+}
 
 
 
@@ -115,24 +127,12 @@ img{
     margin-bottom: 50px;
 }
 
-.itch a img:hover 
-{
-   opacity: 0.35;
-   transition: opacity ease-in-out 0.2s;
-}
-
 
 .github{
     float: right;
     margin: 10px;
     margin-left: 10px;
     margin-bottom: 10px;
-}
-
-.github a img:hover 
-{
-   opacity: 0.35;
-   transition: opacity ease-in-out 0.2s;
 }
 
 #description{
